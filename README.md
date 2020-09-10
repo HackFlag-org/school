@@ -11,3 +11,6 @@ Het doel van deze opdracht is alleen om te leren hoe je een SQL-injectie uit kun
 De code bevat geen virus en kun je dus prima op je eigen computer draaien.
 Maar, omdat deze code zo slecht is moet je de code nooit gebruiken als voorbeeld voor hoe je je eigen website maakt.
 Dan bouw je namelijk een heel makkelijk te hacken website.
+
+# Bekijk de handleiding voor dit systeem op HackFlag.org:
+https://hackflag.org/t/zelf-sql-injectie-uitproberen/14822
