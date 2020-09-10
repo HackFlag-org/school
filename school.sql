@@ -1,9 +1,10 @@
+
 -- phpMyAdmin SQL Dump
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 10, 2020 at 01:47 PM
+-- Generation Time: Sep 10, 2020 at 01:53 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.4.8
 
@@ -20,6 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `school`
 --
+CREATE DATABASE IF NOT EXISTS `school` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `school`;
 
 -- --------------------------------------------------------
 
