@@ -36,9 +36,9 @@ require('global.php');
 			<section id="one">
 				<div class="inner">
 					<header>
-						<h2>Magna Etiam Lorem</h2>
+						<h2>De beste school voor jouw kind</h2>
 					</header>
-					<p>Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi ullamcorper vehicula. Integer adipiscin sem. Nullam quis massa sit amet nibh viverra malesuada. Nunc sem lacus, accumsan quis, faucibus non, congue vel, arcu, erisque hendrerit tellus. Integer sagittis. Vivamus a mauris eget arcu gravida tristique. Nunc iaculis mi in ante.</p>
+					<p>Het is duidelijk dat wij de beste school zijn. Zeker als je het vergelijkt met die andere scholen hier in de buurt. Wij hebben de beste docenten en de slimste leerlingen. Bij ons worden zelden fouten gemaakt. Iedere leerling doet er dingen naast om zich te onderscheiden van de massa die je op andere scholen ziet.</p>
 					<ul class="actions">
 						<li><a href="#" class="button alt">Learn More</a></li>
 					</ul>
@@ -115,7 +115,7 @@ require('global.php');
 				</div>
 			</section>
 
-		<!-- Footer -->
+		<!-- Footer
 			<section id="footer">
 				<div class="inner">
 					<header>
@@ -142,7 +142,7 @@ require('global.php');
 						&copy; Untitled Design: <a href="https://templated.co/">TEMPLATED</a>. Images <a href="https://unsplash.com/">Unsplash</a>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
